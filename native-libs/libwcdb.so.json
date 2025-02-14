@@ -6,7 +6,8 @@
                 "label": "WCDB",
                 "dev_team": "Tencent",
                 "rule_contributors": [
-                    "Absinthe"
+                    "Absinthe",
+                    "WOLFRAZOR"
                 ],
                 "description": "WCDB 是一个易用、高效、完整的移动数据库框架，它基于 SQLite 和 SQLCipher 开发，在微信中应用广泛，且支持在 C++、Java、Kotlin、Swift、Objc 五种语言环境中使用。",
                 "source_link": "https://github.com/Tencent/wcdb/"
@@ -18,7 +19,8 @@
                 "label": "WCDB",
                 "dev_team": "Tencent",
                 "rule_contributors": [
-                    "Absinthe"
+                    "Absinthe",
+                    "WOLFRAZOR"
                 ],
                 "description": "WCDB is an efficient, complete, easy-to-use mobile database framework used in the WeChat application. It's based on SQLite and SQLCipher, and supports five languages: C++, Java, Kotlin, Swift and Objective-C.",
                 "source_link": "https://github.com/Tencent/wcdb/"
