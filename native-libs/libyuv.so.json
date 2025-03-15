@@ -7,7 +7,8 @@
                 "dev_team": "Google",
                 "rule_contributors": [
                     "Absinthe",
-                    "d1y"
+                    "d1y",
+                    "WOLFRAZOR"
                 ],
                 "description": "libYUV 是 Google 开源的 yuv 图像处理库，实现对各种 yuv 数据之间的转换，包括数据转换，裁剪，缩放，旋转。",
                 "source_link": "https://chromium.googlesource.com/libyuv/libyuv/"
@@ -20,7 +21,8 @@
                 "dev_team": "Google",
                 "rule_contributors": [
                     "Absinthe",
-                    "d1y"
+                    "d1y",
+                    "WOLFRAZOR"
                 ],
                 "description": "libYUV is Google's open-source YUV image processing library, implementing conversion between various YUV data, including data conversion, cropping, scaling, and rotation.",
                 "source_link": "https://chromium.googlesource.com/libyuv/libyuv/"

@@ -3,27 +3,27 @@
         {
             "locale": "zh-Hans",
             "data": {
-                "label": "Google Play Service",
+                "label": "Play Asset Delivery",
                 "dev_team": "Google",
                 "rule_contributors": [
                     "Absinthe"
                 ],
-                "description": "借助 Google Play 服务，您的应用可以利用由 Google 提供的最新功能，例如地图，Google+ 等，并通过 Google Play 商店以 APK 的形式分发自动平台更新。 这样一来，您的用户可以更快地接收更新，并且可以更轻松地集成 Google 必须提供的最新信息。",
-                "source_link": "https://developers.google.com/android/guides/overview/"
+                "description": "Play Asset Delivery (PAD) 将应用包的优势带入游戏。它允许大于 200MB 的游戏通过发布一个包含游戏所需所有资源的单一工件来替代传统的扩展文件 (OBBs)。PAD 提供灵活的交付模式、自动更新、压缩和增量修补，并且免费使用。",
+                "source_link": "https://developer.android.com/guide/playcore/asset-delivery"
             }
         },
         {
             "locale": "en",
             "data": {
-                "label": "Google Play Service",
+                "label": "Play Asset Delivery",
                 "dev_team": "Google",
                 "rule_contributors": [
                     "Absinthe"
                 ],
-                "description": "With Google Play services, your app can take advantage of the latest features provided by Google, such as maps and Google+, and distribute automatic platform updates via the Google Play store in APK form. This allows your users to receive updates more quickly and integrates the latest information Google has to offer more easily.",
-                "source_link": "https://developers.google.com/android/guides/overview/"
+                "description": "Play Asset Delivery (PAD) brings the benefits of app bundles to games. It allows games larger than 200MB to replace legacy expansion files (OBBs) by publishing a single artifact to Play containing all the resources the game needs. PAD offers flexible delivery modes, auto-updates, compression, and delta patching, and is free to use.",
+                "source_link": "https://developer.android.com/guide/playcore/asset-delivery"
             }
         }
     ],
-    "uuid": "4B1BF101-0F4C-40BB-94CE-7CB875A2613B"
+    "uuid": "2D40A03D-B93C-4C16-B0DF-207F839C5E33"
 }
