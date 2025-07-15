@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "locale": "zh-Hans",
+            "data": {
+                "label": "Legacy Photo Picker",
+                "dev_team": "Absinthe",
+                "rule_contributors": [
+                    "Absinthe"
+                ],
+                "description": "这是一个适用于 Legacy Photo Picker 的服务类。",
+                "source_link": ""
+            }
+        },
+        {
+            "locale": "en",
+            "data": {
+                "label": "Legacy Photo Picker",
+                "dev_team": "Absinthe",
+                "rule_contributors": [
+                    "Absinthe"
+                ],
+                "description": "This is a service class for Legacy Photo Picker",
+                "source_link": ""
+            }
+        }
+    ],
+    "uuid": "A80F599E-A857-4517-82C3-17FBD5198394"
+}

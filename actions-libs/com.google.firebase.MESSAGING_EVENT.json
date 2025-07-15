@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "locale": "zh-Hans",
+            "data": {
+                "label": "FCM",
+                "dev_team": "Absinthe",
+                "rule_contributors": [
+                    "Absinthe"
+                ],
+                "description": "这是一个适用于 FCM 的服务类。",
+                "source_link": ""
+            }
+        },
+        {
+            "locale": "en",
+            "data": {
+                "label": "FCM",
+                "dev_team": "Absinthe",
+                "rule_contributors": [
+                    "Absinthe"
+                ],
+                "description": "This is a service class for FCM",
+                "source_link": ""
+            }
+        }
+    ],
+    "uuid": "12D8BB6C-93DC-4258-AF63-388E5C2C4A8F"
+}

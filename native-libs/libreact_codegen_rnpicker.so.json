@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "locale": "zh-Hans",
+            "data": {
+                "label": "react-native-svg",
+                "dev_team": "software-mansion",
+                "rule_contributors": [
+                    "Minori-ty"
+                ],
+                "description": "适用于 React Native、React Native Web 和普通 React Web 项目的 SVG 库。",
+                "source_link": "https://github.com/software-mansion/react-native-svg"
+            }
+        },
+        {
+            "locale": "en",
+            "data": {
+                "label": "react-native-svg",
+                "dev_team": "software-mansion",
+                "rule_contributors": [
+                    "Minori-ty"
+                ],
+                "description": "SVG library for React Native, React Native Web, and plain React web projects.",
+                "source_link": "https://github.com/software-mansion/react-native-svg"
+            }
+        }
+    ],
+    "uuid": "DFD495B3-032A-4EB8-881E-FAE6DD38AA61"
+}

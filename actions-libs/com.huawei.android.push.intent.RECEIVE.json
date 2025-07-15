@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "locale": "zh-Hans",
+            "data": {
+                "label": "HUAWEI Push",
+                "dev_team": "Absinthe",
+                "rule_contributors": [
+                    "Absinthe"
+                ],
+                "description": "这是一个适用于华为推送的服务类。",
+                "source_link": ""
+            }
+        },
+        {
+            "locale": "en",
+            "data": {
+                "label": "HUAWEI Push",
+                "dev_team": "Absinthe",
+                "rule_contributors": [
+                    "Absinthe"
+                ],
+                "description": "This is a service class for HUAWEI Push",
+                "source_link": ""
+            }
+        }
+    ],
+    "uuid": "1C61F52E-367F-4C70-A043-7C12249B1907"
+}

@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "locale": "zh-Hans",
+            "data": {
+                "label": "uCrop",
+                "dev_team": "Yalantis",
+                "rule_contributors": [
+                    "su1216",
+                    "Absinthe",
+                    "WOLFRAZOR"
+                ],
+                "description": "Android 图片裁剪库。",
+                "source_link": "https://github.com/Yalantis/uCrop/"
+            }
+        },
+        {
+            "locale": "en",
+            "data": {
+                "label": "uCrop",
+                "dev_team": "Yalantis",
+                "rule_contributors": [
+                    "su1216",
+                    "Absinthe",
+                    "WOLFRAZOR"
+                ],
+                "description": "Android image cropping library.",
+                "source_link": "https://github.com/Yalantis/uCrop/"
+            }
+        }
+    ],
+    "uuid": "7B41A761-76E2-4C6E-B107-6F0DF0C9505A"
+}

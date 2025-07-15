@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "locale": "zh-Hans",
+            "data": {
+                "label": "pngquant-android",
+                "dev_team": "Nic Dahlquist",
+                "rule_contributors": [
+                    "Super12138"
+                ],
+                "description": "A basic Java binding library for pngquant on Android.",
+                "source_link": "https://github.com/ndahlquist/pngquant-android"
+            }
+        },
+        {
+            "locale": "en",
+            "data": {
+                "label": "pngquant-android",
+                "dev_team": "Nic Dahlquist",
+                "rule_contributors": [
+                    "Super12138"
+                ],
+                "description": "适用于 Android 的 pngquant 基础 Java 绑定库。",
+                "source_link": "https://github.com/ndahlquist/pngquant-android"
+            }
+        }
+    ],
+    "uuid": "2EF501B8-5C13-4BA6-82C2-771B75773FE3"
+}

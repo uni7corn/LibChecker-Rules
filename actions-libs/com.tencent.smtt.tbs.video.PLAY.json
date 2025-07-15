@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "locale": "zh-Hans",
+            "data": {
+                "label": "TBS",
+                "dev_team": "Absinthe",
+                "rule_contributors": [
+                    "Absinthe"
+                ],
+                "description": "这是一个适用于 TBS 的服务类。",
+                "source_link": ""
+            }
+        },
+        {
+            "locale": "en",
+            "data": {
+                "label": "TBS",
+                "dev_team": "Absinthe",
+                "rule_contributors": [
+                    "Absinthe"
+                ],
+                "description": "This is a service class for TBS",
+                "source_link": ""
+            }
+        }
+    ],
+    "uuid": "9A7B0FA0-5DF8-4648-AEA1-720B021B0B15"
+}

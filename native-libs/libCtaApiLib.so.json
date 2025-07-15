@@ -3,29 +3,31 @@
         {
             "locale": "zh-Hans",
             "data": {
-                "label": "极光认证 SDK",
-                "dev_team": "极光",
+                "label": "天翼账号认证",
+                "dev_team": "天翼数字生活科技有限公司",
                 "rule_contributors": [
-                    "Absinthe",
-                    "HenryWu01"
+                    "HenryWu01",
+                    "FinalLins",
+                    "Absinthe"
                 ],
-                "description": "极光认证整合了三大运营商的网关认证能力，为开发者提供了一键登录和号码认证功能，优化用户注册/登录、号码验证的体验，提高安全性。",
-                "source_link": "https://docs.jiguang.cn/jverification/client/android_guide/"
+                "description": "Automatically detects the local phone number to enable one-click login.",
+                "source_link": "https://id.dlife.cn/api?initialSrc=/html/api_detail_634.html"
             }
         },
         {
             "locale": "en",
             "data": {
-                "label": "Aurora Authentication SDK",
-                "dev_team": "极光",
+                "label": "天翼账号认证",
+                "dev_team": "天翼数字生活科技有限公司",
                 "rule_contributors": [
-                    "Absinthe",
-                    "HenryWu01"
+                    "HenryWu01",
+                    "FinalLins",
+                    "Absinthe"
                 ],
-                "description": "Aurora Authentication integrates the gateway authentication capabilities of the three major operators, providing developers with one-click login and number authentication functions, optimizing user registration/login and number verification experience, and enhancing security.",
-                "source_link": "https://docs.jiguang.cn/jverification/client/android_guide/"
+                "description": "自动识别本机号码，实现一键登录。",
+                "source_link": "https://id.dlife.cn/api?initialSrc=/html/api_detail_634.html"
             }
         }
     ],
-    "uuid": "6C892DAC-8F63-4FE8-8D7C-5849DBCBC135"
+    "uuid": "F24ED8C8-755E-4397-AADB-D4E7A9BC151F"
 }
