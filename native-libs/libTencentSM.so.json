@@ -3,7 +3,7 @@
         {
             "locale": "zh-Hans",
             "data": {
-                "label": "Kona 国密套件",
+                "label": "国密套件",
                 "dev_team": "Tencent",
                 "rule_contributors": [
                     "WOLFRAZOR",
@@ -16,7 +16,7 @@
         {
             "locale": "en",
             "data": {
-                "label": "Kona SM Suite",
+                "label": "SM Suite",
                 "dev_team": "Tencent",
                 "rule_contributors": [
                     "WOLFRAZOR",
