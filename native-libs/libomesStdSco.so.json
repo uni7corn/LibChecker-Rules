@@ -8,7 +8,7 @@
                 "rule_contributors": [
                     "Absinthe"
                 ],
-                "description": "Provides secure and reliable risk detection capabilities for apps, including malicious URL detection, device environment security checks, log leak prevention, mobile app hardening services, privacy security detection, and trusted digital identity key services, making integration quick and easy.",
+                "description": "为应用提供安全可信的风险检测能力，包括：恶意 URL 检测能力、终端环境安全检测能力、日志防泄漏检测能力、移动应用加固服务、隐私安全检测服务、可信数字身份密钥服务，方便快速集成。",
                 "source_link": "https://open.oppomobile.com/documentation/page/info?id=11091"
             }
         },
@@ -20,7 +20,7 @@
                 "rule_contributors": [
                     "Absinthe"
                 ],
-                "description": "为应用提供安全可信的风险检测能力，包括：恶意 URL 检测能力、终端环境安全检测能力、日志防泄漏检测能力、移动应用加固服务、隐私安全检测服务、可信数字身份密钥服务，方便快速集成。",
+                "description": "Provides secure and reliable risk detection capabilities for apps, including malicious URL detection, device environment security checks, log leak prevention, mobile app hardening services, privacy security detection, and trusted digital identity key services, making integration quick and easy.",
                 "source_link": "https://open.oppomobile.com/documentation/page/info?id=11091"
             }
         }

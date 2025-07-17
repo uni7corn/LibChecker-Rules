@@ -8,7 +8,7 @@
                 "rule_contributors": [
                     "Neatsuki"
                 ],
-                "description": "uni-app is a framework for developing all front-end applications using Vue.js. Developers write one set of code and can publish it to iOS, Android, HarmonyOS Next, Web (responsive), and various mini programs, quick apps, and HarmonyOS services.",
+                "description": "uni-app 是一个使用 Vue.js 开发所有前端应用的框架，开发者编写一套代码，可发布到 iOS、Android、鸿蒙 Next、Web（响应式）、以及各种小程序、快应用、鸿蒙元服务等多个平台。",
                 "source_link": "https://uniapp.dcloud.net.cn/"
             }
         },
@@ -20,7 +20,7 @@
                 "rule_contributors": [
                     "Neatsuki"
                 ],
-                "description": "uni-app 是一个使用 Vue.js 开发所有前端应用的框架，开发者编写一套代码，可发布到 iOS、Android、鸿蒙 Next、Web（响应式）、以及各种小程序、快应用、鸿蒙元服务等多个平台。",
+                "description": "uni-app is a framework for developing all front-end applications using Vue.js. Developers write one set of code and can publish it to iOS, Android, HarmonyOS Next, Web (responsive), and various mini programs, quick apps, and HarmonyOS services.",
                 "source_link": "https://uniapp.dcloud.net.cn/"
             }
         }

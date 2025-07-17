@@ -10,7 +10,7 @@
                     "FinalLins",
                     "Absinthe"
                 ],
-                "description": "Automatically detects the local phone number to enable one-click login.",
+                "description": "自动识别本机号码，实现一键登录。",
                 "source_link": "https://id.dlife.cn/api?initialSrc=/html/api_detail_634.html"
             }
         },
@@ -24,7 +24,7 @@
                     "FinalLins",
                     "Absinthe"
                 ],
-                "description": "自动识别本机号码，实现一键登录。",
+                "description": "Automatically detects the local phone number to enable one-click login.",
                 "source_link": "https://id.dlife.cn/api?initialSrc=/html/api_detail_634.html"
             }
         }

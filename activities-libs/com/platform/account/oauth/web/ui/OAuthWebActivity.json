@@ -8,7 +8,7 @@
                 "rule_contributors": [
                     "Absinthe"
                 ],
-                "description": "The Account Service provides a quick login solution based on the Oauth2.0 standard protocol. Users can log in directly to your app using their authorized Huantai account for quick access.",
+                "description": "账号服务是向您提供的基于 Oauth2.0 标准协议的快捷登录服务，用户可以通过授权的方式直接登录手机上的欢太账号，快速访问您的应用。",
                 "source_link": "https://open.oppomobile.com/documentation/page/info?id=10847"
             }
         },
@@ -20,7 +20,7 @@
                 "rule_contributors": [
                     "Absinthe"
                 ],
-                "description": "账号服务是向您提供的基于 Oauth2.0 标准协议的快捷登录服务，用户可以通过授权的方式直接登录手机上的欢太账号，快速访问您的应用。",
+                "description": "The Account Service provides a quick login solution based on the Oauth2.0 standard protocol. Users can log in directly to your app using their authorized Huantai account for quick access.",
                 "source_link": "https://open.oppomobile.com/documentation/page/info?id=10847"
             }
         }
