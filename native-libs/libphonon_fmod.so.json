@@ -3,7 +3,7 @@
         {
             "locale": "zh-Hans",
             "data": {
-                "label": "Steam Audio Core",
+                "label": "Steam Audio",
                 "dev_team": "Valve Corporation",
                 "rule_contributors": [
                     "small18"
@@ -15,7 +15,7 @@
         {
             "locale": "en",
             "data": {
-                "label": "Steam Audio Core",
+                "label": "Steam Audio",
                 "dev_team": "Valve Corporation",
                 "rule_contributors": [
                     "small18"

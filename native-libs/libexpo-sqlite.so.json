@@ -3,31 +3,27 @@
         {
             "locale": "zh-Hans",
             "data": {
-                "label": "Expo",
-                "dev_team": "650 Industries, Inc.",
+                "label": "Expo SQLite",
+                "dev_team": "Expo",
                 "rule_contributors": [
-                    "jerone",
-                    "youngxhui",
-                    "Minori-ty"
+                    "qgming"
                 ],
-                "description": "Expo 是一个框架，使开发 Android 和 iOS 应用变得更简单。该框架提供基于文件的路由、标准的原生模块库等功能。",
-                "source_link": "https://expo.dev/"
+                "description": "Expo框架提供的 SQLite数据库功能。",
+                "source_link": "https://github.com/expo/expo/tree/main/packages/expo-sqlite"
             }
         },
         {
             "locale": "en",
             "data": {
-                "label": "Expo",
-                "dev_team": "650 Industries, Inc.",
+                "label": "Expo SQLite",
+                "dev_team": "Expo",
                 "rule_contributors": [
-                    "jerone",
-                    "youngxhui",
-                    "Minori-ty"
+                    "qgming"
                 ],
-                "description": "Expo is a framework that makes developing Android and iOS apps easier. The framework provides file-based routing, a standard library of native modules, and much more.",
-                "source_link": "https://expo.dev/"
+                "description": "The SQLite database functionality provided by the Expo framework.",
+                "source_link": "https://github.com/expo/expo/tree/main/packages/expo-sqlite"
             }
         }
     ],
-    "uuid": "4373F630-4557-4DB6-8B6B-BCC98F27380A"
+    "uuid": "577D7D6C-B154-4884-93F4-CA919259BB2A"
 }

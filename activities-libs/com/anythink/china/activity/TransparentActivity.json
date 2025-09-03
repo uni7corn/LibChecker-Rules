@@ -6,7 +6,8 @@
                 "label": "AnyThink SDK",
                 "dev_team": "TopOn",
                 "rule_contributors": [
-                    "jyfyge"
+                    "jyfyge",
+                    "Absinthe"
                 ],
                 "description": "TopOn 是全球领先的移动广告聚合工具，专注于为全球移动开发者提供广告变现运营管理及优化服务，助力开发者实现广告收益最大化。",
                 "source_link": "https://github.com/toponteam/TopOn-Android-SDK"
@@ -18,7 +19,8 @@
                 "label": "AnyThink SDK",
                 "dev_team": "TopOn",
                 "rule_contributors": [
-                    "jyfyge"
+                    "jyfyge",
+                    "Absinthe"
                 ],
                 "description": "TopOn is a leading global mobile ad mediation tool focused on providing ad monetization operation management and optimization services for developers worldwide, helping them maximize ad revenue.",
                 "source_link": "https://github.com/toponteam/TopOn-Android-SDK"
