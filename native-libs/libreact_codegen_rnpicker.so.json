@@ -3,25 +3,25 @@
         {
             "locale": "zh-Hans",
             "data": {
-                "label": "react-native-svg",
+                "label": "react-native-picker",
                 "dev_team": "software-mansion",
                 "rule_contributors": [
                     "Minori-ty"
                 ],
-                "description": "适用于 React Native、React Native Web 和普通 React Web 项目的 SVG 库。",
-                "source_link": "https://github.com/software-mansion/react-native-svg"
+                "description": "Picker 是一个跨平台 UI 组件，用于从选项列表中选择一个项目。",
+                "source_link": "https://github.com/react-native-picker/picker"
             }
         },
         {
             "locale": "en",
             "data": {
-                "label": "react-native-svg",
+                "label": "react-native-picker",
                 "dev_team": "software-mansion",
                 "rule_contributors": [
                     "Minori-ty"
                 ],
                 "description": "SVG library for React Native, React Native Web, and plain React web projects.",
-                "source_link": "https://github.com/software-mansion/react-native-svg"
+                "source_link": "https://github.com/react-native-picker/picker"
             }
         }
     ],

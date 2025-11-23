@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "locale": "zh-Hans",
+            "data": {
+                "label": "Akamai Bot Manager",
+                "dev_team": "Akamai",
+                "rule_contributors": [
+                    "michaelx-corner"
+                ],
+                "description": "在最危险、最隐蔽的机器人程序破坏客户信任之前拦截它们。",
+                "source_link": "https://www.akamai.com/products/bot-manager"
+            }
+        },
+        {
+            "locale": "en",
+            "data": {
+                "label": "Akamai Bot Manager",
+                "dev_team": "Akamai",
+                "rule_contributors": [
+                    "michaelx-corner"
+                ],
+                "description": "Stop the most dangerous, evasive bots before they erode customer trust.",
+                "source_link": "https://www.akamai.com/products/bot-manager"
+            }
+        }
+    ],
+    "uuid": "ADFFCE00-E06D-423B-8FAD-E3F0C69AB034"
+}

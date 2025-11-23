@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "locale": "zh-Hans",
+            "data": {
+                "label": "QmBlur",
+                "dev_team": "QmDeve",
+                "rule_contributors": [
+                    "QmDeve"
+                ],
+                "description": "Android QmBlurView 库提供高性能的模糊实现，兼容 Android 5.0+",
+                "source_link": "https://blur.docs.qmdeve.com/"
+            }
+        },
+        {
+            "locale": "en",
+            "data": {
+                "label": "QmBlur",
+                "dev_team": "QmDeve",
+                "rule_contributors": [
+                    "QmDeve"
+                ],
+                "description": "The Android QmBlurView library provides a high-performance blur implementation, compatible with Android 5.0+.",
+                "source_link": "https://blur.docs.qmdeve.com/"
+            }
+        }
+    ],
+    "uuid": "3E968304-E256-475E-AE5A-74A31E6C5461"
+}
