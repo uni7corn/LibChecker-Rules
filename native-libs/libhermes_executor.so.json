@@ -11,7 +11,8 @@
                     "HenryWu01",
                     "WOLFRAZOR",
                     "sebastien46",
-                    "yfdyh000"
+                    "yfdyh000",
+                    "coder-xiaomo"
                 ],
                 "description": "Hermes 是一个为 React Native 应用程序的快速启动而优化的 JavaScript 引擎。它具有提前静态优化和紧凑的字节码。",
                 "source_link": "https://github.com/facebook/hermes"
@@ -28,7 +29,8 @@
                     "HenryWu01",
                     "WOLFRAZOR",
                     "sebastien46",
-                    "yfdyh000"
+                    "yfdyh000",
+                    "coder-xiaomo"
                 ],
                 "description": "Hermes is a JavaScript engine optimized for fast startup of React Native applications. It features ahead-of-time static optimization and compact bytecode.",
                 "source_link": "https://github.com/facebook/hermes"

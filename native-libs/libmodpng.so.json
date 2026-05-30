@@ -7,7 +7,8 @@
                 "dev_team": "Google",
                 "rule_contributors": [
                     "yfdyh000",
-                    "ArthurCyy"
+                    "ArthurCyy",
+                    "IsHacker003"
                 ],
                 "description": "Pdfium Android 绑定。",
                 "source_link": "https://android.googlesource.com/platform/external/pdfium/"
@@ -20,7 +21,8 @@
                 "dev_team": "Google",
                 "rule_contributors": [
                     "yfdyh000",
-                    "ArthurCyy"
+                    "ArthurCyy",
+                    "IsHacker003"
                 ],
                 "description": "Pdfium Android binding.",
                 "source_link": "https://android.googlesource.com/platform/external/pdfium/"

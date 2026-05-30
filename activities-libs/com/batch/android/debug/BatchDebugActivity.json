@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "locale": "zh-Hans",
+            "data": {
+                "label": "Batch",
+                "dev_team": "Batch",
+                "rule_contributors": [
+                    "sebastien46"
+                ],
+                "description": "Batch Android SDK 允许你通过高度个性化的推送通知和应用内消息，在 Android 应用中构建有意义的沟通体验。",
+                "source_link": "https://github.com/BatchLabs/Batch-Android-SDK"
+            }
+        },
+        {
+            "locale": "en",
+            "data": {
+                "label": "Batch",
+                "dev_team": "Batch",
+                "rule_contributors": [
+                    "sebastien46"
+                ],
+                "description": "The Batch Android SDK allows you to build meaningful communication experience in your Android app through highly personalized push notifications & In-App messages.",
+                "source_link": "https://github.com/BatchLabs/Batch-Android-SDK"
+            }
+        }
+    ],
+    "uuid": "CABC8CF5-6827-407D-90BC-E416A749F7BF"
+}

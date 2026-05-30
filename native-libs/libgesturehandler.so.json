@@ -3,10 +3,10 @@
         {
             "locale": "zh-Hans",
             "data": {
-                "label": "react-native-gesture-handler",
+                "label": "React Native Gesture Handler",
                 "dev_team": "software-mansion",
                 "rule_contributors": [
-                    "Minori-ty"
+                    "Minori-ty", "sebastien46"
                 ],
                 "description": "为 React Native 暴露平台原生触摸和手势系统的声明式 API。",
                 "source_link": "https://github.com/software-mansion/react-native-gesture-handler"
@@ -15,10 +15,10 @@
         {
             "locale": "en",
             "data": {
-                "label": "react-native-gesture-handler",
+                "label": "React Native Gesture Handler",
                 "dev_team": "software-mansion",
                 "rule_contributors": [
-                    "Minori-ty"
+                    "Minori-ty", "sebastien46"
                 ],
                 "description": "Declarative API exposing platform native touch and gesture system to React Native.",
                 "source_link": "https://github.com/software-mansion/react-native-gesture-handler"

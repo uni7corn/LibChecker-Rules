@@ -8,8 +8,8 @@
                 "rule_contributors": [
                     "QmDeve"
                 ],
-                "description": "Android QmBlurView 库提供高性能的模糊实现，兼容 Android 5.0+",
-                "source_link": "https://blur.docs.qmdeve.com/"
+                "description": "一个 Android UI 组件库，提供实时、动态的高斯模糊效果。它使用原生 C++ 代码进行高效模糊处理，并提供一组模糊 UI 组件来增强你的应用设计。",
+                "source_link": "https://blurview.qmdeve.com/"
             }
         },
         {
@@ -21,7 +21,7 @@
                     "QmDeve"
                 ],
                 "description": "The Android QmBlurView library provides a high-performance blur implementation, compatible with Android 5.0+.",
-                "source_link": "https://blur.docs.qmdeve.com/"
+                "source_link": "https://blurview.qmdeve.com/"
             }
         }
     ],

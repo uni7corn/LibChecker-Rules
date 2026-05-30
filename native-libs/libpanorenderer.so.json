@@ -6,7 +6,8 @@
                 "label": "Cardboard SDK",
                 "dev_team": "Google",
                 "rule_contributors": [
-                    "yfdyh000"
+                    "yfdyh000",
+                    "sebastien46"
                 ],
                 "description": "开源 Cardboard SDK 允许您为 Android 和 iOS 构建沉浸式跨平台 VR 体验。",
                 "source_link": "https://developers.google.com/cardboard"
@@ -18,7 +19,8 @@
                 "label": "Cardboard SDK",
                 "dev_team": "Google",
                 "rule_contributors": [
-                    "yfdyh000"
+                    "yfdyh000",
+                    "sebastien46"
                 ],
                 "description": "The open source Cardboard SDK allows you to build immersive cross-platform VR experiences for Android and iOS.",
                 "source_link": "https://developers.google.com/cardboard"

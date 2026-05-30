@@ -6,7 +6,7 @@
                 "label": "AndroidLame",
                 "dev_team": "naman14",
                 "rule_contributors": [
-                    "yfdyh000"
+                    "yfdyh000", "sebastien46"
                 ],
                 "description": "Android/Java 包装器，围绕 Lame mp3 编码器。",
                 "source_link": "https://github.com/naman14/TAndroidLame"
@@ -18,7 +18,7 @@
                 "label": "AndroidLame",
                 "dev_team": "naman14",
                 "rule_contributors": [
-                    "yfdyh000"
+                    "yfdyh000", "sebastien46"
                 ],
                 "description": "Android/Java wrapper around Lame mp3 encoder.",
                 "source_link": "https://github.com/naman14/TAndroidLame"

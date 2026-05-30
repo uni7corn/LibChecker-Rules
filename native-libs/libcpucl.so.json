@@ -3,26 +3,28 @@
         {
             "locale": "zh-Hans",
             "data": {
-                "label": "HiAI Foundation",
+                "label": "Ascend CANN",
                 "dev_team": "HUAWEI",
                 "rule_contributors": [
                     "ArthurCyy",
-                    "WOLFRAZOR"
+                    "WOLFRAZOR",
+                    "ArcticFoxPro"
                 ],
-                "description": "芯片能力开放，快速转化和迁移已有模型，借助异构调度和 NPU 加速，实现更佳性能、更低功耗。",
+                "description": "CANN（Compute Architecture for Neural Networks）是华为针对 AI 场景推出的异构计算架构，对上支持多种 AI 框架，对下服务 AI 处理器与编程，发挥承上启下的关键作用，是提升昇腾 AI 处理器计算效率的关键平台。",
                 "source_link": "https://developer.huawei.com/consumer/cn/hiai#Foundation"
             }
         },
         {
             "locale": "en",
             "data": {
-                "label": "HiAI Foundation",
+                "label": "Ascend CANN",
                 "dev_team": "HUAWEI",
                 "rule_contributors": [
                     "ArthurCyy",
-                    "WOLFRAZOR"
+                    "WOLFRAZOR",
+                    "ArcticFoxPro"
                 ],
-                "description": "Open chip capabilities, quickly transform and migrate existing models, achieving better performance and lower power consumption through heterogeneous scheduling and NPU acceleration.",
+                "description": "CANN (Compute Architecture for Neural Networks) is a heterogeneous computing architecture introduced by Huawei for AI scenarios. It supports multiple AI frameworks at the upper layer and serves AI processors and programming at the lower layer, playing a key bridging role. It is a critical platform for improving the computing efficiency of Ascend AI processors.",
                 "source_link": "https://developer.huawei.com/consumer/cn/hiai#Foundation"
             }
         }

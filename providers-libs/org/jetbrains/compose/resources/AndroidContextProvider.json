@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "locale": "zh-Hans",
+            "data": {
+                "label": "Compose Multiplatform",
+                "dev_team": "JetBrains",
+                "rule_contributors": [
+                    "ArcticFoxPro"
+                ],
+                "description": "为 Android、iOS、桌面和 Web 构建美观的共享 UI，并在每个平台上都呈现自然的体验。",
+                "source_link": "https://kotlinlang.org/compose-multiplatform/"
+            }
+        },
+        {
+            "locale": "en",
+            "data": {
+                "label": "Compose Multiplatform",
+                "dev_team": "JetBrains",
+                "rule_contributors": [
+                    "ArcticFoxPro"
+                ],
+                "description": "Build beautiful shared UIs for Android, iOS, desktop, and web that feel natural on every platform.",
+                "source_link": "https://kotlinlang.org/compose-multiplatform/"
+            }
+        }
+    ],
+    "uuid": "E73004E8-5448-4A28-B0E3-1ED8627CF246"
+}

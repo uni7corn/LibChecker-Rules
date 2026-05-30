@@ -6,7 +6,7 @@
                 "label": "React Native Skia",
                 "dev_team": "Shopify",
                 "rule_contributors": [
-                    "Anormi"
+                    "Anormi", "sebastien46"
                 ],
                 "description": "使用 Skia 的高性能 2D 图形用于 React Native。",
                 "source_link": "https://github.com/Shopify/react-native-skia"
@@ -18,7 +18,7 @@
                 "label": "React Native Skia",
                 "dev_team": "Shopify",
                 "rule_contributors": [
-                    "Anormi"
+                    "Anormi", "sebastien46"
                 ],
                 "description": "High-performance 2D graphics for React Native using Skia.",
                 "source_link": "https://github.com/Shopify/react-native-skia"
